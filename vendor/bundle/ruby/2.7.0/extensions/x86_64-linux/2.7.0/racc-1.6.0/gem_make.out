@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240208-310534-1wmplti.rb extconf.rb
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240210-1148733-1hcb4sm.rb extconf.rb
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240208-310534-zk2njv/racc
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240210-1148733-vefl05/racc
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
