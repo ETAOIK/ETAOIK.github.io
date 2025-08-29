@@ -74,7 +74,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   &emsp; Visiting student, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
   <img src="../images/sjtu.png" alt="sjtu" style="zoom:1.99%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
-  &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
+  &emsp; Internship, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
 
 
