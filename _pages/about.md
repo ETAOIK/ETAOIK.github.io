@@ -66,7 +66,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2023.09 - present* 
 
   <img src="../images/scau.png" alt="scau" style="zoom:2.12%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
-  &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
+  &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Guohui Zhu](https://life.scau.edu.cn/2018/0809/c3194a107213/page.htm), Prof. [Faqiang Li](https://life.scau.edu.cn/2018/0809/c9944a107188/page.htm), and Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
 
 
 # 💻 Internships
