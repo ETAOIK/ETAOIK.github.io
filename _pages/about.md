@@ -23,7 +23,7 @@ I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
 - *September 2024*: PASSAGE preprint is now available on *bioRxiv* now.
-- *July 2024*: New journey at GIBH, CAS.
+- *July 2023*: New journey at GIBH, CAS.
 
 
 
