@@ -69,7 +69,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
 
 
-## 💻 Internships
+# 💻 Internships
   <img src="../images/pku.png" alt="pku" style="zoom:13.9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
