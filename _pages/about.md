@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭广敦)'s Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
+I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health (GIBH)](https://english.gibh.cas.cn/), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
 
 # 🔥 Recent News
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
@@ -64,7 +64,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 # 📖 Educations
   <img src="../images/ucas.jpg" alt="ucas" style="zoom:20%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
-  &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2023.09 - present* 
+  &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html). *2023.09 - present* 
 
   <img src="../images/scau.png" alt="scau" style="zoom:2.12%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
   &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Guohui Zhu](https://life.scau.edu.cn/2018/0809/c3194a107213/page.htm), Prof. [Faqiang Li](https://life.scau.edu.cn/2018/0809/c9944a107188/page.htm), and Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
@@ -90,7 +90,8 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 
 # 💬 Talks
-- *May 2025* Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, The 2nd GIBH Youth Forum
+- *July 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, GIBH Graduate Academic Forum
+- *May 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, The 2nd GIBH Youth Forum
 
 
 # 🔗 Cooperators
@@ -117,5 +118,4 @@ Career in Penglab:
 
 
 # 🌏 Visitor Map
-
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Qp0ThxUK7Ms9R-YZDeOu9mvGUCqRGuvHePKD0eK7M64&cl=ffffff&w=a"></script>
