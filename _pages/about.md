@@ -20,8 +20,9 @@ redirect_from:
 I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭广敦)'s Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
 
 # 🔥 Recent News
-- *August 2025*:  SPHENIC preprint is now available on *arXiv* now.
-- *February 2025*:  🎉🎉PASSAGE is accepted by *Small Methods* as a cover story.
+- *August 2025*: SPHENIC preprint is now available on *arXiv* now.
+- *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
+- *September 2024*: PASSAGE preprint is now available on *bioRxiv* now.
 - *July 2024*: New journey at GIBH, CAS.
 
 
@@ -90,6 +91,30 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 # 💬 Talks
 - *May 2025* Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, The 2nd GIBH Youth Forum
+
+
+# 🔗 Cooperators
+I am deeply grateful to all the colleagues I have had the honor of collaborating with, both in the past and presently.
+
+SPHENIC project:
+ * Lecturer. [Dayu Hu](http://www.bmie.neu.edu.cn/2025/0721/c8375a289860/page.htm) (College of Medicine and Biological Information Engineering, Northeastern University)
+ * Prof. [Por Lip Yee](https://umexpert.um.edu.my/porlip) (Department of Computer System and Technology, University of Malaya)
+
+PASSAGE project:
+ * Prof. [Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm) (BIOPIC, Peking University)
+ * Dr. [Zhijie Cao](https://www.gao-lab.org/index.php/people-caozj/) (BIOPIC, Peking University)
+ * Dr. [Chenrui Xia](https://www.gao-lab.org/index.php/people-xiacr/)(BIOPIC, Peking University)
+
+Career in Penglab:
+ * Prof. [Guizhong Cui](https://www.gzlab.ac.cn/Team/index_138.html) (Guangzhou Laboratory)
+ * Prof. [Dongye Wang](http://stemlab.gibh.ac.cn/yjtd/fyjyn/202503/t20250313_484538.html) (GIBH, Chinese Academy of Sciences)
+ * Prof. Guangyu Zhang (Chongqing Medical University)
+ * Prof. Ying Chen (Yangzhou University)
+ * Dr. Xiaogao Meng (Guangzhou Laboratory)
+ * Dr. Yao Yao (GIBH, Chinese Academy of Sciences)
+ * Dr. Jincan Ke (GIBH, Chinese Academy of Sciences)
+ * Dr. Haoxian Wang (GIBH, Chinese Academy of Sciences)
+
 
 # 🌏 Visitor Map
 
