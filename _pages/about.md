@@ -46,7 +46,7 @@ I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭
 <div class='paper-box-text' markdown="1">
 
 [Learning Phenotype Associated Signature in Spatial Transcriptomics with PASSAGE](https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202401451)
-**Chen-Kai Guo<sup>*</sup>**, Chen-Rui Xia<sup>*</sup>, Guangdun Peng<sup>✉</sup>, Zhi-Jie Cao<sup>✉</sup>, Ge Gao<sup>✉</sup>
+**Chen-Kai Guo\***, Chen-Rui Xia\*, Guangdun Peng<sup>✉</sup>, Zhi-Jie Cao<sup>✉</sup>, Ge Gao<sup>✉</sup>
 
 **Keywords**
 - Multi-slice Spatial Analysis; 
@@ -57,24 +57,24 @@ I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭
 
 Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>. "[High-resolution mapping of single cells in spatial context.](https://www.nature.com/articles/s41467-025-61667-4)" *Nature Communications* 16, no. 1 (2025): 6533.
 
-Xiaogao Meng<sup>*</sup>, Wenjia Li<sup>*</sup>, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>. "[Spatiotemporal transcriptome atlas of developing mouse lung.](https://www.sciencedirect.com/science/article/pii/S2095927325002403)" *Science Bulletin* (2025).
+Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>. "[Spatiotemporal transcriptome atlas of developing mouse lung.](https://www.sciencedirect.com/science/article/pii/S2095927325002403)" *Science Bulletin* (2025).
 
-Nicola Murgia<sup>*</sup>, Yuan Ma<sup>*</sup>, Syeda Sadia Najam<sup>*</sup>, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929.
+Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929.
 
 
 # 📖 Educations
-  <img src="../images/ucas.jpg" alt="ucas" style="zoom:9%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
+  <img src="../images/ucas.jpg" alt="ucas" style="zoom:30%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
   &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2023.09 - present* 
 
-  <img src="../images/scau.png" alt="scau" style="zoom:9%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
+  <img src="../images/scau.png" alt="scau" style="zoom:3%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
   &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
 
 
 ## 💻 Internships
-  <img src="../images/pku.png" alt="pku" style="zoom:9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
+  <img src="../images/pku.png" alt="pku" style="zoom:30%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
-  <img src="../images/sjtu.png" alt="pku" style="zoom:9%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
+  <img src="../images/sjtu.png" alt="pku" style="zoom:3%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
 
