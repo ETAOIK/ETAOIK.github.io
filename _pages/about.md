@@ -20,7 +20,7 @@ redirect_from:
 I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭广敦)'s Lab at Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
 
 # 🔥 Recent News
-- *August 2025*:  SPHENIC preprint is now available on *axXiv* now.
+- *August 2025*:  SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*:  🎉🎉PASSAGE is accepted by *Small Methods* as a cover story.
 - *July 2024*: New journey at GIBH, CAS.
 
@@ -73,7 +73,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   <img src="../images/pku.png" alt="pku" style="zoom:13.9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
-  <img src="../images/sjtu.png" alt="pku" style="zoom:1.78%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
+  <img src="../images/sjtu.png" alt="pku" style="zoom:1.99%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
 
