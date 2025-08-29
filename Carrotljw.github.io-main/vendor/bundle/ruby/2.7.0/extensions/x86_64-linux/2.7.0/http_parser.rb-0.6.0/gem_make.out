@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240208-310534-8qfet2.rb extconf.rb
+creating Makefile
+
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240210-1148733-nfz5ed.rb extconf.rb
+creating Makefile
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240208-310534-z8ndom
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20240210-1148733-13gnbkv
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6

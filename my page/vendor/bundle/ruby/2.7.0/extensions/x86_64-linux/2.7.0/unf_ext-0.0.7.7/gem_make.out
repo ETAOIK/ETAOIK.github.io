@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240208-310534-1umeu9n.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240210-1148733-5w0lql.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.so
+
+<<<<<<< HEAD
+current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20240208-310534-f2jfh1
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20240210-1148733-1g4vo1g
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6

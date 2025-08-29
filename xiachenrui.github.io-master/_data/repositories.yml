@@ -1,0 +1,9 @@
+github_users:
+  - xiachenrui
+  - gao-lab
+
+repo_description_lines_max: 2
+
+github_repos:
+  - gao-lab/slat
+  - gao-lab/decipher
