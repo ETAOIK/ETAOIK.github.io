@@ -22,7 +22,6 @@ I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.Guangdun Peng (彭
 # 🔥 Recent News
 - *August 2025*:  SPHENIC preprint is now available on *axXiv* now.
 - *February 2025*:  🎉🎉PASSAGE is accepted by *Small Methods* as a cover story.
-<!-- - *September 2024*: I am honored as an internship in Prof.Ge Gao's group at BIOPIC, PKU. -->
 - *July 2024*: New journey at GIBH, CAS.
 
 
@@ -63,18 +62,18 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 
 # 📖 Educations
-  <img src="../images/ucas.jpg" alt="ucas" style="zoom:30%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
+  <img src="../images/ucas.jpg" alt="ucas" style="zoom:20%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
   &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2023.09 - present* 
 
-  <img src="../images/scau.png" alt="scau" style="zoom:3%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
+  <img src="../images/scau.png" alt="scau" style="zoom:2.12%; float: left" />&emsp; [South China Agritural University](https://scau.edu.cn/)                           
   &emsp; B.S. in National Scientific Base of Life Sciences, College of Life Sciences, advised by Prof. [Mei Hong](https://life.scau.edu.cn/2018/0809/c3194a107236/page.htm). *2019.09 - 2023.06* 
 
 
 ## 💻 Internships
-  <img src="../images/pku.png" alt="pku" style="zoom:30%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
+  <img src="../images/pku.png" alt="pku" style="zoom:13.9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
-  <img src="../images/sjtu.png" alt="pku" style="zoom:3%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
+  <img src="../images/sjtu.png" alt="pku" style="zoom:1.78%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
   &emsp; Internship, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
 
@@ -93,11 +92,5 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *May 2025* Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, The 2nd GIBH Youth Forum
 
 # 🌏 Visitor Map
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=FfJIXGJ1rDlkpY0CchN2EcwArRmvFE6vD5wHUvzl6os&cl=ffffff&w=a"></script>
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Qp0ThxUK7Ms9R-YZDeOu9mvGUCqRGuvHePKD0eK7M64&cl=ffffff&w=a"></script>
