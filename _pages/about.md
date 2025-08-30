@@ -85,13 +85,13 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *December 2024*, Outstanding Poster Award in Graduate Academic Forum at GIBH
 - *September 2023*, Global Gold Medal of iGEM competition (Advisor)
 - *June 2023*, Outstanding Undergraduate Student of SCAU
-- *June 2023*, First Prize Scholarship
+- *November 2022*, First Prize Scholarship
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
 
 
 # 💬 Talks
-- *July 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, GIBH Graduate Academic Forum
-- *May 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomics Slices, The 2nd GIBH Youth Forum
+- *July 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomic Slices, GIBH Graduate Academic Forum
+- *May 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomic Slices, The 2nd GIBH Youth Forum
 
 
 # 🔗 Cooperators
@@ -104,7 +104,7 @@ SPHENIC project:
 PASSAGE project:
  * Prof. [Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm) (BIOPIC, Peking University)
  * Dr. [Zhijie Cao](https://www.gao-lab.org/index.php/people-caozj/) (BIOPIC, Peking University)
- * Dr. [Chenrui Xia](https://www.gao-lab.org/index.php/people-xiacr/)(BIOPIC, Peking University)
+ * Dr. [Chenrui Xia](https://www.gao-lab.org/index.php/people-xiacr/) (BIOPIC, Peking University)
 
 Career in Penglab:
  * Prof. [Guizhong Cui](https://www.gzlab.ac.cn/Team/index_138.html) (Guangzhou Laboratory)
