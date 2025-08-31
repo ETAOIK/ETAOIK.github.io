@@ -91,8 +91,8 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
 
 
-# 💻 Services
-- Conference Reviewer of *AAAI'26*.
+<!-- # 💻 Services
+- Conference Reviewer of *AAAI'26*. -->
 
 
 # 💬 Talks
