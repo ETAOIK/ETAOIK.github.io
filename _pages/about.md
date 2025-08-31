@@ -19,6 +19,9 @@ redirect_from:
 
 I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health (GIBH)](https://english.gibh.cas.cn/), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
 
+Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any time. I'm always happy to connect.
+
+
 # 🔥 Recent News
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
@@ -78,7 +81,6 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   &emsp; Internship, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
 
-
 # 🎖 Honors and Awards
 - *May 2025*, Pacemaker to Merit Student
 - *May 2025*, Second Prize Scholarship
@@ -87,6 +89,10 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *June 2023*, Outstanding Undergraduate Student of SCAU
 - *November 2022*, First Prize Scholarship
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
+
+
+# 💻 Services
+- Conference Reviewer of *AAAI'26*.
 
 
 # 💬 Talks
