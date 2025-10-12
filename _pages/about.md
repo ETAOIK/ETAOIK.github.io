@@ -85,7 +85,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 # 🎖 Honors and Awards
 
 - *October 2025*, National Scholarship in China
-- *October 2025*, utstanding Poster Award (second prize) in the 14th National Conference on Bioinformatics and Systems Biology
+- *October 2025*, Outstanding Poster Award (second prize) in the 14th National Conference on Bioinformatics and Systems Biology
 - *May 2025*, Pacemaker to Merit Student
 - *May 2025*, Second Prize Scholarship
 - *December 2024*, Outstanding Poster Award in Graduate Academic Forum at GIBH
