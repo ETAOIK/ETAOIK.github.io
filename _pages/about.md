@@ -23,7 +23,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 
 
 # 🔥 Recent News
-- *October 2025*: I am honored to obtain the National Scholarship in China!
+- *October 2025*: I am honored to obtain the National Scholarship in China.
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
 - *September 2024*: PASSAGE preprint is now available on *bioRxiv* now.
