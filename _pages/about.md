@@ -23,6 +23,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 
 
 # 🔥 Recent News
+- *October 2025*: I am honored to obtain the National Scholarship in China!
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
 - *September 2024*: PASSAGE preprint is now available on *bioRxiv* now.
@@ -82,6 +83,9 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 
 # 🎖 Honors and Awards
+
+- *October 2025*, National Scholarship in China
+- *October 2025*, utstanding Poster Award (second prize) in the 14th National Conference on Bioinformatics and Systems Biology
 - *May 2025*, Pacemaker to Merit Student
 - *May 2025*, Second Prize Scholarship
 - *December 2024*, Outstanding Poster Award in Graduate Academic Forum at GIBH
@@ -109,8 +113,8 @@ SPHENIC project:
 
 PASSAGE project:
  * Prof. [Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm) (BIOPIC, Peking University)
- * Dr. [Zhijie Cao](https://www.gao-lab.org/index.php/people-caozj/) (BIOPIC, Peking University)
- * Dr. [Chenrui Xia](https://www.gao-lab.org/index.php/people-xiacr/) (BIOPIC, Peking University)
+ * Dr. [Zhi-Jie Cao](https://www.gao-lab.org/index.php/people-caozj/) (BIOPIC, Peking University)
+ * Dr. [Chen-Rui Xia](https://www.gao-lab.org/index.php/people-xiacr/) (BIOPIC, Peking University)
 
 Career in Penglab:
  * Prof. [Guizhong Cui](https://www.gzlab.ac.cn/Team/index_138.html) (Guangzhou Laboratory)
