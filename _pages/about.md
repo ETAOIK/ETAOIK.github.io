@@ -21,7 +21,7 @@ I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](ht
 
 <!-- Feel free to reach out to me via email or  at any time. I'm always happy to connect. -->
 
-<font color="rgba(205, 77, 77, 1)Currently I am applying 26Fall PhD position. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!</font><br /> 
+<font color"#cd6868ff">Currently I am applying 26Fall PhD position. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!</font><br /> 
 
 # 🔥 Recent News
 - *October 2025*: I am honored to obtain the National Scholarship in China.
