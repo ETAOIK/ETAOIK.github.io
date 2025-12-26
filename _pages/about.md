@@ -96,8 +96,13 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
 
 
-<!-- # 💻 Services
-- Conference Reviewer of *AAAI'26*. -->
+# 💻 Academic Services
+Conferences:
+- *AAAI'26*.
+
+Journals:
+- IEEE Signal Processing Letters.
+
 
 
 # 💬 Talks
@@ -109,7 +114,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 I am deeply grateful to all the colleagues I have had the honor of collaborating with, both in the past and presently.
 
 SPHENIC project:
- * Lecturer. [Dayu Hu](http://www.bmie.neu.edu.cn/2025/0721/c8375a289860/page.htm) (College of Medicine and Biological Information Engineering, Northeastern University)
+ * Prof. [Dayu Hu](http://www.bmie.neu.edu.cn/2025/0721/c8375a289860/page.htm) (College of Medicine and Biological Information Engineering, Northeastern University)
  * Prof. [Por Lip Yee](https://umexpert.um.edu.my/porlip) (Department of Computer System and Technology, University of Malaya)
 
 PASSAGE project:
@@ -122,6 +127,7 @@ Career in Penglab:
  * Prof. [Dongye Wang](http://stemlab.gibh.ac.cn/yjtd/fyjyn/202503/t20250313_484538.html) (GIBH, Chinese Academy of Sciences)
  * Prof. Guangyu Zhang (Chongqing Medical University)
  * Prof. Ying Chen (Yangzhou University)
+ * Dr. Mingyue Guo (University of Pennsylvania)
  * Dr. Xiaogao Meng (Guangzhou Laboratory)
  * Dr. Yao Yao (GIBH, Chinese Academy of Sciences)
  * Dr. Jincan Ke (GIBH, Chinese Academy of Sciences)
