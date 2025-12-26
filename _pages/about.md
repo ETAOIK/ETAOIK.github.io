@@ -67,7 +67,7 @@ Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu
 Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929.
 
 
-# 📖 Educations
+# 🎓 Educations
   <img src="../images/ucas.jpg" alt="ucas" style="zoom:20%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
   &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html). *2023.09 - present* 
 
@@ -96,12 +96,12 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
 
 
-# 💻 Academic Services
+<!-- # 🛠️ Academic Services
 Conferences:
 - *AAAI'26*.
 
 Journals:
-- IEEE Signal Processing Letters.
+- IEEE Signal Processing Letters. -->
 
 
 
