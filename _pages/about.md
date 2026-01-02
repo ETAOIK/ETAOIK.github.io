@@ -79,6 +79,9 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   <img src="../images/pku.png" alt="pku" style="zoom:13.9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                           
   &emsp; Visiting student, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm). 2023.09 - 2024.09
 
+  <img src="../images/ucas.jpg" alt="ucas" style="zoom:20%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
+  &emsp; Undergraduate Innovation and Entrepreneurship Training Program, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html). *2022.08 - 2023.08* 
+
   <img src="../images/sjtu.png" alt="sjtu" style="zoom:1.99%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
   &emsp; Internship, School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, advised by Prof.[Ilya A. Vinnikov](https://life.sjtu.edu.cn/teacher/Ilya). 2021.07 - 2021.09
 
