@@ -80,7 +80,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
   &emsp; Visiting student, Biomedical Pioneering Innovation Center(BIOPIC), Peking University, advised by Prof.[Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm), focus on deep learning algorithm development of spatial transcriptomics. 2023.09 - 2024.09 
 
 
-  <img src="../images/gibh.jpg" alt="ucas" style="zoom:16.68%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health](https://www.cas.cn/)                           
+  <img src="../images/gibh.jpg" alt="ucas" style="zoom:4.5%; float: left" />&emsp; [Guangzhou Institutes of Biomedicine and Health](https://www.cas.cn/)                           
   &emsp; Undergraduate Innovation and Entrepreneurship Training Program, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html). *2022.08 - 2023.08* 
 
   <img src="../images/sjtu.png" alt="sjtu" style="zoom:1.99%; float: left" />&emsp; [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/)                           
