@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health (GIBH)](https://english.gibh.cas.cn/), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and computer games.
+I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health (GIBH)](https://english.gibh.cas.cn/), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and listening to EDM music.
 
-<!-- Feel free to reach out to me via email or  at any time. I'm always happy to connect. -->
+Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any time. I'm always happy to connect.
 
-I am currently applying for PhD position starting in Fall 2026. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!
+<!--I am currently applying for PhD position starting in Fall 2026. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!-->
 
 # 🔥 Recent News
 - *October 2025*: I am honored to obtain the National Scholarship in China.
