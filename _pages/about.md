@@ -36,8 +36,8 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 (*: equal contribution, ✉: corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/2-SPHENIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SPHENIC: Topology-Informed Multi-View Clustering for Spatial Transcriptomics](https://arxiv.org/abs/2508.10646)
-**Chenkai Guo**, Yikai Zhu, Jing Yangum, Renxiang Guan, Por Lip Yee, Guangdun Peng<sup>✉</sup>, Dayu Hu <sup>✉</sup>
+[SPHENIC: Topology-Aware Multi-View Clustering for Spatial Transcriptomics](https://arxiv.org/abs/2508.10646)
+**Chenkai Guo**, Yikai Zhu, Renxiang Guan, Jinli Ma, Siwei Wang, Ke Liang, Guangdun Peng, Dayu Hu <sup>✉</sup>
 
 **Keywords**
 - Persistent Homology; 
@@ -118,7 +118,6 @@ I am deeply grateful to all the colleagues I have had the honor of collaborating
 
 SPHENIC project:
  * Prof. [Dayu Hu](http://www.bmie.neu.edu.cn/2025/0721/c8375a289860/page.htm) (College of Medicine and Biological Information Engineering, Northeastern University)
- * Prof. [Por Lip Yee](https://umexpert.um.edu.my/porlip) (Department of Computer System and Technology, University of Malaya)
 
 PASSAGE project:
  * Prof. [Ge Gao](https://icg.pku.edu.cn/kxyj/yjtd/269282.htm) (BIOPIC, Peking University)
