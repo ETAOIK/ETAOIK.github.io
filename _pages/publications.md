@@ -32,12 +32,12 @@ author_profile: true
     padding-bottom: 20px;
   }
   .paper-box-image {
-    flex: 0 0 300px;
+    flex: 0 0 350px;
     position: relative;
   }
   .paper-box-text {
     flex: 1;
-    font-size: 1.1em;
+    font-size: 1.0em;
     line-height: 1.4;
   }
   .badge {
@@ -53,7 +53,7 @@ author_profile: true
   }
 
   .keywords {
-    font-size: 1.0em !important;
+    font-size: 0.9em !important;
     color: #555;
     margin-top: 10px;
   }
