@@ -26,6 +26,7 @@ author_profile: true
 
   .paper-box {
     display: flex;
+    margin-top: 20px;
     margin-bottom: 20px; 
     gap: 25px;
     border-bottom: 1px solid #eee;
