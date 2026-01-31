@@ -8,7 +8,7 @@ author_profile: true
 <style>
   #main {
     display: flex !important;
-    max-width: 1200px;
+    max-width: 1280px;
     margin: 0 auto;
     align-items: flex-start;
   }
@@ -16,33 +16,34 @@ author_profile: true
     width: 260px !important;
     position: sticky;
     top: 2em;
+    flex-shrink: 0;
   }
   .page {
     width: calc(100% - 260px) !important;
     padding-left: 40px !important;
-    flex-shrink: 1;
+    flex-grow: 1;
   }
-
 
   .paper-box {
     display: flex;
-    margin-bottom: 40px;
-    gap: 25px;
-    border-bottom: 1px solid #f2f2f2;
-    padding-bottom: 20px;
+    margin-bottom: 15px;
+    gap: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
   }
   .paper-box-image {
-    flex: 0 0 300px;
+    flex: 0 0 250px;
     position: relative;
   }
   .paper-box-text {
     flex: 1;
+    line-height: 1.4;
   }
   .badge {
     background: #004085;
     color: white;
     padding: 2px 8px;
-    font-size: 12px;
+    font-size: 11px;
     border-radius: 3px;
     position: absolute;
     top: 5px;
@@ -50,6 +51,7 @@ author_profile: true
     z-index: 10;
   }
   
+  /* 响应式适配 */
   @media (max-width: 768px) {
     #main { flex-direction: column; }
     .sidebar, .page { width: 100% !important; padding: 10px !important; }
@@ -63,27 +65,30 @@ author_profile: true
 <div class="publications">
 {% assign publications_by_year = site.data.publications | group_by_exp: "item", "item.year" | sort: "name" | reverse %}
 {% for year_group in publications_by_year %}
-  <h2 class="year" style="margin-top: 40px; border-bottom: 2px solid #333; padding-bottom: 5px;">{{ year_group.name }}</h2>
+  <h2 class="year" style="margin-top: 30px; border-bottom: 2px solid #333; padding-bottom: 5px; font-size: 1.5em;">{{ year_group.name }}</h2>
   
   {% for entry in year_group.items %}
   <div class="paper-box">
     <div class="paper-box-image">
       {% if entry.badge %}<div class="badge">{{ entry.badge }}</div>{% endif %}
-      <img src="{{ entry.image | relative_url }}" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+      <img src="{{ entry.image | relative_url }}" style="width: 100%; border-radius: 4px;">
     </div>
 
     <div class="paper-box-text">
       <p style="margin: 0; font-size: 1.1em; font-weight: bold;">
         <a href="{{ entry.url }}">{{ entry.title }}</a>
       </p>
-      <p style="margin: 5px 0; color: #555;">{{ entry.authors }}</p>
+      
+      <div style="margin: 4px 0; color: #444;">
+        {{ entry.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
       
       {% if entry.keywords %}
-      <div class="keywords" style="font-size: 0.9em; color: #666;">
+      <div class="keywords" style="font-size: 0.9em; color: #666; margin-top: 5px;">
         <strong>Keywords:</strong>
-        <ul style="margin: 5px 0; padding-left: 20px;">
+        <ul style="margin: 2px 0; padding-left: 18px; list-style-type: disc;">
           {% for kw in entry.keywords %}
-          <li>{{ kw }}</li>
+          <li style="margin-bottom: 0;">{{ kw }}</li>
           {% endfor %}
         </ul>
       </div>
