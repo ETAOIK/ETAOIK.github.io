@@ -38,7 +38,7 @@ author_profile: true
   }
   .paper-box-text {
     flex: 1;
-    font-size: 1.0em;
+    font-size: 0.95em;
     line-height: 1.4;
   }
   .badge {
