@@ -3,12 +3,12 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-home-item">
+          <li class="masthead__menu-item">
             <a href="{{ '/' | relative_url }}">Homepage</a>
           </li>
 
           {% for link in site.data.navigation.main %}
-            {% if link.title != "About Me" %}
+            {% if link.title != "About Me" and link.title != "Homepage" %}
               <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
               </li>
