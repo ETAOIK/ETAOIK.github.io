@@ -56,7 +56,7 @@ author_profile: true
   .keywords {
     font-size: 0.9em !important;
     color: #555;
-    margin-top: 10px;
+    margin-top: 9px;
   }
   .keywords strong {
     color: #333;
