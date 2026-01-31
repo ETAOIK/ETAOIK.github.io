@@ -26,10 +26,10 @@ author_profile: true
 
   .paper-box {
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     gap: 20px;
     border-bottom: 1px solid #eee;
-    padding-bottom: 15px;
+    padding-bottom: 20px;
   }
   .paper-box-image {
     flex: 0 0 250px;
@@ -43,15 +43,14 @@ author_profile: true
     background: #004085;
     color: white;
     padding: 2px 8px;
-    font-size: 11px;
+    font-size: 12px;
     border-radius: 3px;
     position: absolute;
     top: 5px;
     left: 5px;
     z-index: 10;
   }
-  
-  /* 响应式适配 */
+
   @media (max-width: 768px) {
     #main { flex-direction: column; }
     .sidebar, .page { width: 100% !important; padding: 10px !important; }
