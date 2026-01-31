@@ -9,6 +9,22 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  #main {
+    display: flex !important;
+    align-items: flex-start !important;
+  }
+  .sidebar {
+    width: 25%; 
+    display: block !important;
+  }
+  .page {
+    width: 75%;
+    padding-left: 2em;
+  }
+</style>
+
+
 # 📝 Publications 
 (*: equal contribution, ✉: corresponding authors)
 
