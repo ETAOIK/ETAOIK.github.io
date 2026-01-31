@@ -13,13 +13,13 @@ author_profile: true
     align-items: flex-start;
   }
   .sidebar {
-    width: 260px !important;
+    width: 300px !important;
     flex-shrink: 0;
     position: sticky;
     top: 2em;
   }
   .page {
-    width: calc(100% - 260px) !important;
+    width: calc(100% - 300px) !important;
     padding-left: 40px !important;
     flex-grow: 1;
   }
