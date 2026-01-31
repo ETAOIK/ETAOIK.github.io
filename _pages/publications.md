@@ -32,11 +32,12 @@ author_profile: true
     padding-bottom: 20px;
   }
   .paper-box-image {
-    flex: 0 0 250px;
+    flex: 0 0 300px;
     position: relative;
   }
   .paper-box-text {
     flex: 1;
+    font-size: 1.1em;
     line-height: 1.4;
   }
   .badge {
@@ -49,6 +50,15 @@ author_profile: true
     top: 5px;
     left: 5px;
     z-index: 10;
+  }
+
+  .keywords {
+    font-size: 1.0em !important;
+    color: #555;
+    margin-top: 10px;
+  }
+  .keywords strong {
+    color: #333;
   }
 
   .paper-list-item {
