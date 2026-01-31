@@ -60,11 +60,11 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 </div>
 </div>
 
-<!-- Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>. "[High-resolution mapping of single cells in spatial context.](https://www.nature.com/articles/s41467-025-61667-4)" *Nature Communications* 16, no. 1 (2025): 6533.
+Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>. "[High-resolution mapping of single cells in spatial context.](https://www.nature.com/articles/s41467-025-61667-4)" *Nature Communications* 16, no. 1 (2025): 6533.
 
 Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>. "[Spatiotemporal transcriptome atlas of developing mouse lung.](https://www.sciencedirect.com/science/article/pii/S2095927325002403)" *Science Bulletin* (2025).
 
-Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929. -->
+Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929.
 
 
 # 🎓 Educations
