@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chenkai Guo"
-  avatar           : "./images/personal-image.jpg"
+  avatar           : "/images/personal-image.jpg"
   bio              : "Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS)"
   location         : "Guangzhou, China"
   employer         :
