@@ -3,7 +3,7 @@
   badge: "arXiv"
   image: "images/2-SPHENIC.png"
   url: "https://arxiv.org/abs/2508.10646"
-  authors: "**Chenkai Guo**, Yikai Zhu, Renxiang Guan, Jinli Ma, Siwei Wang, Ke Liang, Guangdun Peng, Dayu Hu <sup>✉</sup>"
+  authors: '**Chenkai Guo**, Yikai Zhu, Renxiang Guan, Jinli Ma, Siwei Wang, Ke Liang, Guangdun Peng, Dayu Hu <sup>✉</sup>'
   keywords:
     - Persistent Homology
     - Multi-view Clustering
@@ -14,7 +14,7 @@
   badge: "Small Methods"
   image: "images/1-PASSAGE.png"
   url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/smtd.202401451"
-  authors: "**Chen-Kai Guo\***, Chen-Rui Xia\*, Guangdun Peng<sup>✉</sup>, Zhi-Jie Cao<sup>✉</sup>, Ge Gao<sup>✉</sup>"
+  authors: '**Chen-Kai Guo\***, Chen-Rui Xia\*, Guangdun Peng<sup>✉</sup>, Zhi-Jie Cao<sup>✉</sup>, Ge Gao<sup>✉</sup>'
   keywords:
     - Multi-slice Spatial Analysis
     - Graph Attention Network
@@ -24,21 +24,21 @@
   year: 2025
   badge: "*Nature Communications*"
   url: "https://www.nature.com/articles/s41467-025-61667-4"
-  authors: "Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>"
+  authors: 'Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>'
 
 
 - title: "Spatiotemporal transcriptome atlas of developing mouse lung"
   year: 2025
   badge: "*Science Bulletin*"
   url: "https://your-link.com"
-  authors: "Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>."
+  authors: 'Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>.'
 
 
 - title: "In vivo reductionist approach identifies miR-15a protecting mice from obesity"
   year: 2022
   badge: "*Frontiers in Endocrinology*"
   url: "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full"
-  authors: "Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>"
+  authors: 'Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>'
 
 
 
