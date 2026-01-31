@@ -32,7 +32,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 (*: equal contribution, ✉: corresponding authors)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='../images/2-SPHENIC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,11 +60,11 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 </div>
 </div>
 
-Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>. "[High-resolution mapping of single cells in spatial context.](https://www.nature.com/articles/s41467-025-61667-4)" *Nature Communications* 16, no. 1 (2025): 6533.
+<!-- Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>. "[High-resolution mapping of single cells in spatial context.](https://www.nature.com/articles/s41467-025-61667-4)" *Nature Communications* 16, no. 1 (2025): 6533.
 
 Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>. "[Spatiotemporal transcriptome atlas of developing mouse lung.](https://www.sciencedirect.com/science/article/pii/S2095927325002403)" *Science Bulletin* (2025).
 
-Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929.
+Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>. "[In vivo reductionist approach identifies miR-15a protecting mice from obesity.](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full)" *Frontiers in Endocrinology* 13 (2022): 867929. -->
 
 
 # 🎓 Educations
@@ -109,6 +109,7 @@ Journals:
 
 
 # 💬 Talks
+- *January 2026*, Decoding Spatial Heterogeneity: From Phenotyping Signatures to Topology-Aware Clustering, 22nd SINH Graduate Academic Forum
 - *July 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomic Slices, GIBH Graduate Academic Forum
 - *May 2025*, Exploring Phenotype Associated Signatures in Multiple Spatial Transcriptomic Slices, The 2nd GIBH Youth Forum
 
