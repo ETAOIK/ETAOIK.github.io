@@ -1,9 +1,12 @@
 ---
 layout: default
-permalink: /publications/
 title: "Publications"
-excerpt: ""
+permalink: /publications/
 author_profile: true
+excerpt: ""
+header:
+  overlay_filter: 0.5 
+home_btn: false
 redirect_from: 
   - /about/
   - /about.html
@@ -36,7 +39,6 @@ redirect_from:
     
     {% for entry in year_group.items %}
     <div class='paper-box'>
-      
       {% if entry.image %}
       <div class='paper-box-image'>
         <div>
@@ -47,18 +49,15 @@ redirect_from:
       {% endif %}
 
       <div class='paper-box-text' {% unless entry.image %}style="width: 100%; margin-left: 0;"{% endunless %} markdown="1">
-[{{ entry.title }}]({{ entry.url }})
+
+[{{ entry.title }}]({{ entry.url }})  
 {{ entry.authors }}
 
-{% if entry.keywords %}
-**Keywords**
-{% for kw in entry.keywords %}
-- {{ kw }}; 
+**Keywords** {% for kw in entry.keywords %}- {{ kw }}; 
 {% endfor %}
-{% endif %}
+
       </div>
     </div>
     {% endfor %}
-
   {% endfor %}
 </div>
