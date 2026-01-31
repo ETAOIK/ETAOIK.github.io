@@ -8,13 +8,13 @@
           </li>
 
           {% for link in site.data.navigation.main %}
-            {% if link.title != "About Me" %} <li class="masthead__menu-item">
+            {% if link.title != "About Me" %}
+              <li class="masthead__menu-item">
                 <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
               </li>
             {% endif %}
           {% endfor %}
         </ul>
-        <ul class="hidden-links hidden"></ul>
       </nav>
     </div>
   </div>
