@@ -23,6 +23,7 @@
 - title: "High-resolution mapping of single cells in spatial context"
   year: 2025
   badge: "*Nature Communications*"
+  image: "images/cmap.png"
   url: "https://www.nature.com/articles/s41467-025-61667-4"
   authors: 'Jincan Ke, Jian Xu, Jia Liu, Yumeng Yang, **Chenkai Guo**, Bingbing Xie, Guizhong Cui, Guangdun Peng<sup>✉</sup>, and Shengbao Suo<sup>✉</sup>'
 
@@ -30,6 +31,7 @@
 - title: "Spatiotemporal transcriptome atlas of developing mouse lung"
   year: 2025
   badge: "*Science Bulletin*"
+  image: "images/lung.png"
   url: "https://your-link.com"
   authors: 'Xiaogao Meng\*, Wenjia Li\*, Jian Xu, Yao Yao, An Gong, Yumeng Yang, Fangfang Qu, **Chenkai Guo**, Hui Zheng, Guizhong Cui<sup>✉</sup>, Shengbao Suo<sup>✉</sup>, Guangdun Peng<sup>✉</sup>.'
 
@@ -37,6 +39,7 @@
 - title: "In vivo reductionist approach identifies miR-15a protecting mice from obesity"
   year: 2022
   badge: "*Frontiers in Endocrinology*"
+  image: "images/fendo.png"
   url: "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2022.867929/full"
   authors: 'Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenkai Guo**, Witold Konopka, and Ilya A. Vinnikov<sup>✉</sup>'
 
