@@ -24,6 +24,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 <!--I am currently applying for PhD position starting in Fall 2026. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!-->
 
 # 🔥 Recent News
+- *April 2026*: One paper accepted by IJCAI'26.
 - *October 2025*: I am honored to obtain the National Scholarship in China.
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
 - *February 2025*: 🎉🎉 PASSAGE is accepted by *Small Methods* as a cover story.
@@ -57,6 +58,19 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 - Multi-slice Spatial Analysis; 
 - Graph Attention Network;
 - Contrastive Learning;
+</div>
+</div>
+
+<!-- ------ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26 (accepted)</div><img src='../images/3-SCDMVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SCD-MVC: Stable Conditional Diffusion for Multi-view Clustering
+Jinli Ma\*, **Chenkai Guo\* **, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>
+
+**Keywords**
+- Multi-view Clustering; 
+- Diffusion Model;
 </div>
 </div>
 
@@ -99,12 +113,12 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 - *September 2021*, Global Gold Medal of iGEM competition (Drylab member)
 
 
-<!-- # 🛠️ Academic Services
+# 🛠️ Academic Services
 Conferences:
-- *AAAI'26*.
+- AAAI'26, IJCAI'26, ACM MM'26.
 
 Journals:
-- IEEE Signal Processing Letters. -->
+- Pattern Recognition, BMC Medical Research Methodology, IEEE Signal Processing Letters.
 
 
 
