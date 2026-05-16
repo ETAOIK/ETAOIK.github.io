@@ -115,7 +115,7 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 # 🛠️ Academic Services
 Conferences:
-- AAAI'26, IJCAI'26, ACM MM'26.
+- AAAI, IJCAI, ACM MM.
 
 Journals:
 - Pattern Recognition, BMC Medical Research Methodology, IEEE Signal Processing Letters.
