@@ -66,7 +66,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 <div class='paper-box-text' markdown="1">
 
 SCD-MVC: Stable Conditional Diffusion for Multi-view Clustering
-Jinli Ma\*, **Chenkai Guo\* **, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>
+Jinli Ma\*, **Chenkai Guo\***, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>
 
 **Keywords**
 - Multi-view Clustering; 

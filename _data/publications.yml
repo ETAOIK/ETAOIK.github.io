@@ -4,7 +4,7 @@
   badge: "IJCAI'26"
   image: "images/3-SCDMVC.png"
   # url: "https://arxiv.org/abs/2508.10646"
-  authors: 'Jinli Ma\*, **Chenkai Guo\* **, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>'
+  authors: 'Jinli Ma\*, **Chenkai Guo\***, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>'
   keywords:
     - Multi-view Clustering
     - Diffusion Model
