@@ -65,7 +65,7 @@ Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI'26 (accepted)</div><img src='../images/3-SCDMVC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SCD-MVC: Stable Conditional Diffusion for Multi-view Clustering
+SCD-MVC: Stable Conditional Diffusion for Multi-view Clustering\\
 Jinli Ma\*, **Chenkai Guo\***, Renda Han, Renxiang Guan, Siwei Wang, Ke Liang, Xiaoyu Cui, Dayu Hu <sup>✉</sup>
 
 **Keywords**
