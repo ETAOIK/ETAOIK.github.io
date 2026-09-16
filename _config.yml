@@ -25,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenkai Guo"
   avatar           : "/images/personal-image.jpg"
-  bio              : "Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS)"
-  location         : "Guangzhou, China"
+  bio              : "Center for Quantitative Biology (CQB), Academy for Advanced Interdisciplinary Studies (AAIS), Peking University"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=c2QuAlQAAAAJ&hl=en

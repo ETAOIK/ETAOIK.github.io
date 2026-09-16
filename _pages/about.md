@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chenkai Guo (郭臣凯), a third-year MS student at Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health (GIBH)](https://english.gibh.cas.cn/), Chinese Academy of Sciences (CAS). Previously, I obtained B.S. in College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for single-cell and spatial omics. During my spare time, I enjoy playing billards and listening to EDM music.
+<!-- at Prof.[Peijie Zhou](https://cmlr.pku.edu.cn/People/Faculty/7a19505c532b410bbcdc788d40377c8c.htm) (周沛劼)'s Lab  -->
+I am Chenkai Guo (郭臣凯), a first-year PhD student at [Center for Quantitative Biology](https://cqb.pku.edu.cn/cqben/), Peking University. Previously, I obtained M.S. in Prof.[Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html) (彭广敦)'s Lab at [Guangzhou Institutes of Biomedicine and Health](https://english.gibh.cas.cn/) (GIBH), Chinese Academy of Sciences (CAS), and B.S. at College of Life Sciences from South China Agricultural University (SCAU). My research interests focuses on developing AI/ML algorithms for spatial omics. During my spare time, I enjoy playing billards and listening to EDM music (especially MonsterCat).
 
 Feel free to reach out to me via email or [WeChat](../images/wechat.jpg) at any time. I'm always happy to connect.
 
 <!--I am currently applying for PhD position starting in Fall 2026. If you find my background of any interest, please feel free to email me or add me on [WeChat](../images/wechat.jpg). Thanks for your consideration!-->
 
 # 🔥 Recent News
+
+- *July 2023*: New journey at CQB, AAIS, PKU.
 - *April 2026*: One paper accepted by IJCAI'26.
 - *October 2025*: I am honored to obtain the National Scholarship in China.
 - *August 2025*: SPHENIC preprint is now available on *arXiv* now.
@@ -82,6 +85,10 @@ Nicola Murgia\*, Yuan Ma\*, Syeda Sadia Najam\*, Yu Liu, Joanna Przybys, **Chenk
 
 
 # 🎓 Educations
+  <img src="../images/pku.png" alt="pku" style="zoom:13.9%; float: left" />&emsp; [Peking University](https://www.pku.edu.cn/)                        
+  &emsp; Ph.D. student in Integrative Biology, in Center for Quantitative Biology (CQB), Academy for Advanced Interdisciplinary Studies (AAIS), Peking University. *2026.09 - present* 
+  <!-- advised by Prof. [Peijie Zhou](https://cmlr.pku.edu.cn/People/Faculty/7a19505c532b410bbcdc788d40377c8c.htm). -->
+
   <img src="../images/ucas.jpg" alt="ucas" style="zoom:20%; float: left" />&emsp; [Chinese Academy of Sciences](https://www.cas.cn/)                           
   &emsp; M.S. student in Cellular Biology, in Guangzhou Institutes of Biomedicine and Health (GIBH), Chinese Academy of Sciences (CAS), advised by Prof. [Guangdun Peng](https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html). *2023.09 - present* 
 
@@ -118,8 +125,7 @@ Conferences:
 - AAAI, IJCAI, ACM MM.
 
 Journals:
-- Pattern Recognition, BMC Medical Research Methodology, IEEE Signal Processing Letters.
-
+- Pattern Recognition, Frontiers in Physiology, BMC Medical Research Methodology, IEEE Signal Processing Letters.
 
 
 # 💬 Talks
@@ -130,7 +136,7 @@ Journals:
 
 # 🔗 Cooperators
 I am deeply grateful to all the colleagues I have had the honor of collaborating with, both in the past and presently.
-
+<!-- 
 SPHENIC project:
  * Prof. [Dayu Hu](http://www.bmie.neu.edu.cn/2025/0721/c8375a289860/page.htm) (College of Medicine and Biological Information Engineering, Northeastern University)
 
@@ -148,7 +154,7 @@ Career in Penglab:
  * Dr. Xiaogao Meng (Guangzhou Laboratory)
  * Dr. Yao Yao (GIBH, Chinese Academy of Sciences)
  * Dr. Jincan Ke (GIBH, Chinese Academy of Sciences)
- * Dr. Haoxian Wang (GIBH, Chinese Academy of Sciences)
+ * Dr. Haoxian Wang (GIBH, Chinese Academy of Sciences) -->
 
 
 # 🌏 Visitor Map
